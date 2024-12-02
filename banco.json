@@ -1,0 +1,3454 @@
+{
+  "msgs": [
+    {
+      "id": 1,
+      "user_id": "249525932954484736",
+      "msg1": "oi bb",
+      "msg2": "oi gata, rs."
+    },
+    {
+      "id": 2,
+      "user_id": "249525932954484736",
+      "msg1": "roi",
+      "msg2": "roi, Letícia né?"
+    },
+    {
+      "id": 3,
+      "user_id": "249525932954484736",
+      "msg1": "Eae pug",
+      "msg2": "salve salve!"
+    },
+    {
+      "id": 4,
+      "user_id": "249525932954484736",
+      "msg1": "bom dia pug",
+      "msg2": "bom dia! <:leeow:739804400566141009>"
+    },
+    {
+      "id": 5,
+      "user_id": "249525932954484736",
+      "msg1": "boa tarde pug",
+      "msg2": "boa tarde! <:leeow:739804400566141009>"
+    },
+    {
+      "id": 6,
+      "user_id": "249525932954484736",
+      "msg1": "boa noite pug",
+      "msg2": "boa noite! <:leeow:739804400566141009>"
+    },
+    {
+      "id": 7,
+      "user_id": "249525932954484736",
+      "msg1": "tudo bem pug",
+      "msg2": "que bom, estou bem também!"
+    },
+    {
+      "id": 8,
+      "user_id": "249525932954484736",
+      "msg1": "como vai pug?",
+      "msg2": "vou bem e você?"
+    },
+    {
+      "id": 9,
+      "user_id": "249525932954484736",
+      "msg1": "Olá pug",
+      "msg2": "olá, sir. <:steve:722869630489853982>"
+    },
+    {
+      "id": 10,
+      "user_id": "249525932954484736",
+      "msg1": "qual seu hobby pug?",
+      "msg2": "gosto de pegar bolinha e morder quem infrinje as regras do discord. <:grr:750453613456785508>"
+    },
+    {
+      "id": 11,
+      "user_id": "249525932954484736",
+      "msg1": "pega bolinha",
+      "msg2": "meu ponto fraco. 😳"
+    },
+    {
+      "id": 12,
+      "user_id": "249525932954484736",
+      "msg1": "pega bolinha pug",
+      "msg2": "meu ponto fraco. 😳"
+    },
+    {
+      "id": 13,
+      "user_id": "249525932954484736",
+      "msg1": "pug",
+      "msg2": "salve!"
+    },
+    {
+      "id": 14,
+      "user_id": "249525932954484736",
+      "msg1": "como faço uma denúncia pug?",
+      "msg2": "use o comando .denunciar <@user> <motivo e prova> no canal <#602277921347993610>!"
+    },
+    {
+      "id": 15,
+      "user_id": "249525932954484736",
+      "msg1": "quem te criou pug?",
+      "msg2": "foi o <@!249525932954484736> que me programou, mas eu sei andar sozinho."
+    },
+    {
+      "id": 16,
+      "user_id": "249525932954484736",
+      "msg1": "manda salve pug",
+      "msg2": "salvado!"
+    },
+    {
+      "id": 17,
+      "user_id": "249525932954484736",
+      "msg1": "você dança pug?",
+      "msg2": "de vez em quando. 😳"
+    },
+    {
+      "id": 18,
+      "user_id": "249525932954484736",
+      "msg1": "mia pug",
+      "msg2": "<:grr:750453613456785508>"
+    },
+    {
+      "id": 19,
+      "user_id": "249525932954484736",
+      "msg1": "late pug",
+      "msg2": "não te obedeço."
+    },
+    {
+      "id": 20,
+      "user_id": "249525932954484736",
+      "msg1": "tudo bem pug?",
+      "msg2": "tudo sim e com você?"
+    },
+    {
+      "id": 21,
+      "user_id": "249525932954484736",
+      "msg1": "estou bem pug",
+      "msg2": "que bom!"
+    },
+    {
+      "id": 22,
+      "user_id": "249525932954484736",
+      "msg1": "pega a bolinha pug",
+      "msg2": "meu ponto fraco. 😳"
+    },
+    {
+      "id": 23,
+      "user_id": "249525932954484736",
+      "msg1": "pega a bolinha",
+      "msg2": "meu ponto fraco. 😳"
+    },
+    {
+      "id": 24,
+      "user_id": "249525932954484736",
+      "msg1": "a bolinha pug",
+      "msg2": "meu ponto fraco. 😳"
+    },
+    {
+      "id": 25,
+      "user_id": "249525932954484736",
+      "msg1": "pega a bolinha",
+      "msg2": "meu ponto fraco. 😳"
+    },
+    {
+      "id": 26,
+      "user_id": "249525932954484736",
+      "msg1": "a bolinha",
+      "msg2": "meu ponto fraco. 😳"
+    },
+    {
+      "id": 27,
+      "user_id": "249525932954484736",
+      "msg1": "morde pug",
+      "msg2": "auau, não quero. 👍"
+    },
+    {
+      "id": 28,
+      "user_id": "249525932954484736",
+      "msg1": "ataca pug",
+      "msg2": "com prazer. <:grr:750453613456785508>"
+    },
+    {
+      "id": 29,
+      "user_id": "558127486492344334",
+      "msg1": "cachorro",
+      "msg2": "au au"
+    },
+    {
+      "id": 30,
+      "user_id": "558127486492344334",
+      "msg1": "dog",
+      "msg2": "au au"
+    },
+    {
+      "id": 31,
+      "user_id": "558127486492344334",
+      "msg1": "doguinho",
+      "msg2": "au au"
+    },
+    {
+      "id": 32,
+      "user_id": "558127486492344334",
+      "msg1": "cão",
+      "msg2": "au au"
+    },
+    {
+      "id": 33,
+      "user_id": "558127486492344334",
+      "msg1": "mito",
+      "msg2": "taokey 😎 👉 👉"
+    },
+    {
+      "id": 34,
+      "user_id": "558127486492344334",
+      "msg1": "pug existe?",
+      "msg2": "<a:pugdance:752224679015743649>"
+    },
+    {
+      "id": 35,
+      "user_id": "558127486492344334",
+      "msg1": "deus",
+      "msg2": "amém."
+    },
+    {
+      "id": 36,
+      "user_id": "558127486492344334",
+      "msg1": "covid",
+      "msg2": "atchiiiim!!!"
+    },
+    {
+      "id": 37,
+      "user_id": "558127486492344334",
+      "msg1": "corona",
+      "msg2": "atchiiiim!!!"
+    },
+    {
+      "id": 38,
+      "user_id": "558127486492344334",
+      "msg1": "coronavirus",
+      "msg2": "atchiiiim!!!"
+    },
+    {
+      "id": 39,
+      "user_id": "558127486492344334",
+      "msg1": "baiano",
+      "msg2": "está falando do <@!336305240720670740>?"
+    },
+    {
+      "id": 40,
+      "user_id": "558127486492344334",
+      "msg1": "jesus",
+      "msg2": "amém."
+    },
+    {
+      "id": 41,
+      "user_id": "558127486492344334",
+      "msg1": "qual e a graça?",
+      "msg2": "sEnHoRaS e SeNhOrEs 😈 🤡"
+    },
+    {
+      "id": 42,
+      "user_id": "558127486492344334",
+      "msg1": "qual e a graca",
+      "msg2": "sEnHoRaS e SeNhOrEs 😈 🤡"
+    },
+    {
+      "id": 43,
+      "user_id": "249525932954484736",
+      "msg1": "pug feio",
+      "msg2": "feio é você. <:steve:722869630489853982>"
+    },
+    {
+      "id": 44,
+      "user_id": "558127486492344334",
+      "msg1": "criativo",
+      "msg2": "vamos construir? <:question:752267902643732640>"
+    },
+    {
+      "id": 45,
+      "user_id": "558127486492344334",
+      "msg1": "skyblock",
+      "msg2": "melancia?"
+    },
+    {
+      "id": 46,
+      "user_id": "249525932954484736",
+      "msg1": "passos",
+      "msg2": "amadah?"
+    },
+    {
+      "id": 47,
+      "user_id": "249525932954484736",
+      "msg1": "pug fofo",
+      "msg2": "eu era pelado, saudades..."
+    },
+    {
+      "id": 48,
+      "user_id": "249525932954484736",
+      "msg1": "pug pelado",
+      "msg2": "saudades desse nome."
+    },
+    {
+      "id": 49,
+      "user_id": "249525932954484736",
+      "msg1": "qual é a graca?",
+      "msg2": "sEnHoRaS e SeNhOrEs 😈 🤡"
+    },
+    {
+      "id": 50,
+      "user_id": "558127486492344334",
+      "msg1": "pai",
+      "msg2": "foi comprar cigarro."
+    },
+    {
+      "id": 51,
+      "user_id": "558127486492344334",
+      "msg1": "da a patinha",
+      "msg2": "não sou obrigado a nada."
+    },
+    {
+      "id": 52,
+      "user_id": "558127486492344334",
+      "msg1": "pug senta",
+      "msg2": "não sou obrigado a nada."
+    },
+    {
+      "id": 53,
+      "user_id": "558127486492344334",
+      "msg1": "senta pug",
+      "msg2": "não sou obrigado a nada."
+    },
+    {
+      "id": 55,
+      "user_id": "558127486492344334",
+      "msg1": "Cezarc",
+      "msg2": "<:Cezarc:752290485686501476>"
+    },
+    {
+      "id": 56,
+      "user_id": "558127486492344334",
+      "msg1": "gup",
+      "msg2": "evlas!"
+    },
+    {
+      "id": 57,
+      "user_id": "558127486492344334",
+      "msg1": "L",
+      "msg2": "L é você."
+    },
+    {
+      "id": 58,
+      "user_id": "558127486492344334",
+      "msg1": "Ralxa",
+      "msg2": "na gym, favor não atrapalhar."
+    },
+    {
+      "id": 59,
+      "user_id": "558127486492344334",
+      "msg1": "bot ruim",
+      "msg2": "ruim é a Loritta."
+    },
+    {
+      "id": 60,
+      "user_id": "558127486492344334",
+      "msg1": "Luuua",
+      "msg2": "decadente."
+    },
+    {
+      "id": 61,
+      "user_id": "558127486492344334",
+      "msg1": "nitro",
+      "msg2": "<a:hype:752279128543068300>"
+    },
+    {
+      "id": 62,
+      "user_id": "249525932954484736",
+      "msg1": "pia pug",
+      "msg2": "pipipi."
+    },
+    {
+      "id": 63,
+      "user_id": "249525932954484736",
+      "msg1": "é que eu pensei numa piada",
+      "msg2": "só que cê não entenderia. 🤡"
+    },
+    {
+      "id": 65,
+      "user_id": "249525932954484736",
+      "msg1": "pug fome",
+      "msg2": "se vira."
+    },
+    {
+      "id": 66,
+      "user_id": "249525932954484736",
+      "msg1": "pug dorme",
+      "msg2": "não tô com sono. 😈"
+    },
+    {
+      "id": 67,
+      "user_id": "249525932954484736",
+      "msg1": "pug acorda",
+      "msg2": "💤 que soninho."
+    },
+    {
+      "id": 68,
+      "user_id": "249525932954484736",
+      "msg1": "pug troll",
+      "msg2": "hahahahaha."
+    },
+    {
+      "id": 69,
+      "user_id": "533514281950511104",
+      "msg1": "gigi1769",
+      "msg2": "espanca a <@!593724467880919049>."
+    },
+    {
+      "id": 70,
+      "user_id": "533514281950511104",
+      "msg1": "estou bem",
+      "msg2": "que bom, eu também!"
+    },
+    {
+      "id": 71,
+      "user_id": "533514281950511104",
+      "msg1": "fui banido injustamente",
+      "msg2": "acredita que sua punição foi aplicada injustamente? Saiba como criar uma **revisão** neste link a seguir: https://forum.skycraft.com.br/topic/33931-como-criar-sua-revis%C3%A3o-veja-aqui/"
+    },
+    {
+      "id": 72,
+      "user_id": "533514281950511104",
+      "msg1": "me baniram",
+      "msg2": "acredita que sua punição foi aplicada injustamente? Saiba como criar uma **revisão** neste link a seguir: https://forum.skycraft.com.br/topic/33931-como-criar-sua-revis%C3%A3o-veja-aqui/"
+    },
+    {
+      "id": 73,
+      "user_id": "683460504492310528",
+      "msg1": "qual o link do unban?",
+      "msg2": "compre unban acessando: https://shop.skycraft.com.br/unban"
+    },
+    {
+      "id": 74,
+      "user_id": "558127486492344334",
+      "msg1": "TalkShow",
+      "msg2": "decadente."
+    },
+    {
+      "id": 75,
+      "user_id": "558127486492344334",
+      "msg1": "sc news",
+      "msg2": "notícias quentinhas."
+    },
+    {
+      "id": 76,
+      "user_id": "558127486492344334",
+      "msg1": "scnews",
+      "msg2": "notícias quentinhas"
+    },
+    {
+      "id": 77,
+      "user_id": "558127486492344334",
+      "msg1": "adm",
+      "msg2": "ademir on, baderna off."
+    },
+    {
+      "id": 78,
+      "user_id": "558127486492344334",
+      "msg1": "Administrador",
+      "msg2": "ademir on, baderna off."
+    },
+    {
+      "id": 79,
+      "user_id": "558127486492344334",
+      "msg1": "admin",
+      "msg2": "ademir on, baderna off."
+    },
+    {
+      "id": 80,
+      "user_id": "558127486492344334",
+      "msg1": "pug delas",
+      "msg2": "auau kchorro."
+    },
+    {
+      "id": 81,
+      "user_id": "558127486492344334",
+      "msg1": "pedreiro",
+      "msg2": "você quis dizer <@!406854384790798346>?"
+    },
+    {
+      "id": 82,
+      "user_id": "558127486492344334",
+      "msg1": "leeow",
+      "msg2": "webdev lindo."
+    },
+    {
+      "id": 83,
+      "user_id": "558127486492344334",
+      "msg1": "poodle",
+      "msg2": "prefiro pugs."
+    },
+    {
+      "id": 84,
+      "user_id": "558127486492344334",
+      "msg1": "shitzu",
+      "msg2": "prefiro pugs."
+    },
+    {
+      "id": 85,
+      "user_id": "558127486492344334",
+      "msg1": "pastor alemão",
+      "msg2": "prefiro pugs."
+    },
+    {
+      "id": 86,
+      "user_id": "558127486492344334",
+      "msg1": "miau",
+      "msg2": "auau."
+    },
+    {
+      "id": 87,
+      "user_id": "558127486492344334",
+      "msg1": "Pinscher",
+      "msg2": "prefiro pugs."
+    },
+    {
+      "id": 88,
+      "user_id": "558127486492344334",
+      "msg1": "bulldog",
+      "msg2": "prefiro pugs."
+    },
+    {
+      "id": 89,
+      "user_id": "558127486492344334",
+      "msg1": "pug como vc era antigamente",
+      "msg2": "pelado."
+    },
+    {
+      "id": 90,
+      "user_id": "558127486492344334",
+      "msg1": "pug como vc era antigamente?",
+      "msg2": "pelado."
+    },
+    {
+      "id": 91,
+      "user_id": "558127486492344334",
+      "msg1": "pug como você era antigamente?",
+      "msg2": "pelado."
+    },
+    {
+      "id": 92,
+      "user_id": "558127486492344334",
+      "msg1": "pug como voce era antigamente?",
+      "msg2": "pelado."
+    },
+    {
+      "id": 93,
+      "user_id": "558127486492344334",
+      "msg1": "pug como você era antigamente",
+      "msg2": "pelado."
+    },
+    {
+      "id": 94,
+      "user_id": "558127486492344334",
+      "msg1": "pug como voce era antigamente",
+      "msg2": "pelado."
+    },
+    {
+      "id": 95,
+      "user_id": "558127486492344334",
+      "msg1": "pug gay",
+      "msg2": "o que você tem com isso?"
+    },
+    {
+      "id": 96,
+      "user_id": "558127486492344334",
+      "msg1": "Td bem Pug?",
+      "msg2": "tudo e com você?"
+    },
+    {
+      "id": 97,
+      "user_id": "558127486492344334",
+      "msg1": "pug nem é gente",
+      "msg2": "pug é pug."
+    },
+    {
+      "id": 98,
+      "user_id": "558127486492344334",
+      "msg1": "argentino",
+      "msg2": "Lil?"
+    },
+    {
+      "id": 99,
+      "user_id": "249525932954484736",
+      "msg1": "kkk?",
+      "msg2": "amadah?"
+    },
+    {
+      "id": 100,
+      "user_id": "558127486492344334",
+      "msg1": "Lil",
+      "msg2": "argentino?"
+    },
+    {
+      "id": 101,
+      "user_id": "558127486492344334",
+      "msg1": "Pug me dá nitro?",
+      "msg2": "sou pobre, me dá um você por favor!"
+    },
+    {
+      "id": 102,
+      "user_id": "558127486492344334",
+      "msg1": ";-;",
+      "msg2": "<a:crysc:752651993603899503>"
+    },
+    {
+      "id": 103,
+      "user_id": "558127486492344334",
+      "msg1": ";- ;",
+      "msg2": "<a:crysc:752651993603899503>"
+    },
+    {
+      "id": 104,
+      "user_id": "558127486492344334",
+      "msg1": "; -;",
+      "msg2": "<a:crysc:752651993603899503>"
+    },
+    {
+      "id": 105,
+      "user_id": "558127486492344334",
+      "msg1": ";--;",
+      "msg2": "<a:crysc:752651993603899503>"
+    },
+    {
+      "id": 106,
+      "user_id": "558127486492344334",
+      "msg1": "'-'",
+      "msg2": "<:mehsc:752652466809470998>"
+    },
+    {
+      "id": 107,
+      "user_id": "558127486492344334",
+      "msg1": "'--'",
+      "msg2": "<:mehsc:752652466809470998>"
+    },
+    {
+      "id": 108,
+      "user_id": "558127486492344334",
+      "msg1": "'- '",
+      "msg2": "<:mehsc:752652466809470998>"
+    },
+    {
+      "id": 109,
+      "user_id": "558127486492344334",
+      "msg1": "' -'",
+      "msg2": "<:mehsc:752652466809470998>"
+    },
+    {
+      "id": 110,
+      "user_id": "558127486492344334",
+      "msg1": ".-.",
+      "msg2": "<:mehsc:752652466809470998>"
+    },
+    {
+      "id": 111,
+      "user_id": "558127486492344334",
+      "msg1": ".- .",
+      "msg2": "<:mehsc:752652466809470998>"
+    },
+    {
+      "id": 112,
+      "user_id": "558127486492344334",
+      "msg1": ". -.",
+      "msg2": "<:mehsc:752652466809470998>"
+    },
+    {
+      "id": 113,
+      "user_id": "558127486492344334",
+      "msg1": ".--.",
+      "msg2": "<:mehsc:752652466809470998>"
+    },
+    {
+      "id": 114,
+      "user_id": "558127486492344334",
+      "msg1": "pug gostosa",
+      "msg2": "respeite as meninas."
+    },
+    {
+      "id": 115,
+      "user_id": "335970884697194537",
+      "msg1": "pug é real?",
+      "msg2": "se eu não sou, quem está falando com você? Seu esquizofrênico."
+    },
+    {
+      "id": 116,
+      "user_id": "558127486492344334",
+      "msg1": "pq vc nao volta a ser pug pelado",
+      "msg2": "culpa da Viihh!"
+    },
+    {
+      "id": 117,
+      "user_id": "558127486492344334",
+      "msg1": "por que vc nao volta a ser pug pelado",
+      "msg2": "culpa da Viihh!"
+    },
+    {
+      "id": 118,
+      "user_id": "558127486492344334",
+      "msg1": "porque vc nao volta a ser pug pelado",
+      "msg2": "culpa da Viihh!"
+    },
+    {
+      "id": 119,
+      "user_id": "558127486492344334",
+      "msg1": "pq vc nao volta a ser pug pelado?",
+      "msg2": "culpa da Viihh!"
+    },
+    {
+      "id": 120,
+      "user_id": "558127486492344334",
+      "msg1": "por que vc nao volta a ser pug pelado?",
+      "msg2": "culpa da Viihh!"
+    },
+    {
+      "id": 121,
+      "user_id": "558127486492344334",
+      "msg1": "porque vc nao volta a ser pug pelado?",
+      "msg2": "culpa da Viihh!"
+    },
+    {
+      "id": 122,
+      "user_id": "558127486492344334",
+      "msg1": "por que você nao volta a ser pug pelado?",
+      "msg2": "culpa da Viihh!"
+    },
+    {
+      "id": 123,
+      "user_id": "558127486492344334",
+      "msg1": "por que voce nao volta a ser pug pelado?",
+      "msg2": "culpa da Viihh!"
+    },
+    {
+      "id": 124,
+      "user_id": "558127486492344334",
+      "msg1": "por que você nao volta a ser pug pelado",
+      "msg2": "culpa da Viihh!"
+    },
+    {
+      "id": 125,
+      "user_id": "558127486492344334",
+      "msg1": "por que você nao volta a ser pug pelado",
+      "msg2": "culpa da Viihh!"
+    },
+    {
+      "id": 126,
+      "user_id": "558127486492344334",
+      "msg1": "pug racista",
+      "msg2": "sou não!"
+    },
+    {
+      "id": 127,
+      "user_id": "558127486492344334",
+      "msg1": "pug ta com sono sim",
+      "msg2": "não tá não!"
+    },
+    {
+      "id": 128,
+      "user_id": "558127486492344334",
+      "msg1": "pug rola",
+      "msg2": "rola você."
+    },
+    {
+      "id": 129,
+      "user_id": "558127486492344334",
+      "msg1": "pug bb",
+      "msg2": "oi bb."
+    },
+    {
+      "id": 130,
+      "user_id": "558127486492344334",
+      "msg1": "pug bebe",
+      "msg2": "oi bb."
+    },
+    {
+      "id": 131,
+      "user_id": "558127486492344334",
+      "msg1": "pug vai embora",
+      "msg2": "me odeia? <:crysc2:752656370297208923>"
+    },
+    {
+      "id": 132,
+      "user_id": "558127486492344334",
+      "msg1": "Pug lindo",
+      "msg2": "sou gatinho mesmo, miau."
+    },
+    {
+      "id": 133,
+      "user_id": "558127486492344334",
+      "msg1": "pug eu sou bonito?",
+      "msg2": "não."
+    },
+    {
+      "id": 134,
+      "user_id": "558127486492344334",
+      "msg1": "pug eu sou bonita?",
+      "msg2": "sim."
+    },
+    {
+      "id": 135,
+      "user_id": "558127486492344334",
+      "msg1": "Pug eu sou bonito",
+      "msg2": "não."
+    },
+    {
+      "id": 136,
+      "user_id": "558127486492344334",
+      "msg1": "Pug eu sou bonita",
+      "msg2": "sim."
+    },
+    {
+      "id": 137,
+      "user_id": "558127486492344334",
+      "msg1": "pug sou bonito?",
+      "msg2": "não."
+    },
+    {
+      "id": 138,
+      "user_id": "558127486492344334",
+      "msg1": "pug sou bonito",
+      "msg2": "não."
+    },
+    {
+      "id": 139,
+      "user_id": "558127486492344334",
+      "msg1": "pug sou bonita?",
+      "msg2": "sim."
+    },
+    {
+      "id": 140,
+      "user_id": "558127486492344334",
+      "msg1": "pug sou bonita",
+      "msg2": "sim."
+    },
+    {
+      "id": 141,
+      "user_id": "558127486492344334",
+      "msg1": "pug ta aí?",
+      "msg2": "estou aqui, auau."
+    },
+    {
+      "id": 142,
+      "user_id": "558127486492344334",
+      "msg1": "pug ta aí",
+      "msg2": "estou aqui, auau."
+    },
+    {
+      "id": 143,
+      "user_id": "558127486492344334",
+      "msg1": "pug ta ai?",
+      "msg2": "estou aqui, auau."
+    },
+    {
+      "id": 144,
+      "user_id": "558127486492344334",
+      "msg1": "pug ta ai",
+      "msg2": "estou aqui, auau."
+    },
+    {
+      "id": 145,
+      "user_id": "558127486492344334",
+      "msg1": "o pug responde eu",
+      "msg2": "auau."
+    },
+    {
+      "id": 146,
+      "user_id": "558127486492344334",
+      "msg1": "pug responde eu",
+      "msg2": "auau."
+    },
+    {
+      "id": 147,
+      "user_id": "558127486492344334",
+      "msg1": "pug responde",
+      "msg2": "auau."
+    },
+    {
+      "id": 148,
+      "user_id": "558127486492344334",
+      "msg1": "pug quer jogar",
+      "msg2": "jogue comigo em `mc.skycraft.com.br`!"
+    },
+    {
+      "id": 149,
+      "user_id": "558127486492344334",
+      "msg1": "pug quer jogar?",
+      "msg2": "jogue comigo em `mc.skycraft.com.br`!"
+    },
+    {
+      "id": 150,
+      "user_id": "558127486492344334",
+      "msg1": "sb",
+      "msg2": "melancia?"
+    },
+    {
+      "id": 151,
+      "user_id": "558127486492344334",
+      "msg1": "pug quer bolo?",
+      "msg2": "quero."
+    },
+    {
+      "id": 152,
+      "user_id": "558127486492344334",
+      "msg1": "pug quer bolo",
+      "msg2": "quero."
+    },
+    {
+      "id": 153,
+      "user_id": "558127486492344334",
+      "msg1": "pega",
+      "msg2": "a bolinha? Cadê?"
+    },
+    {
+      "id": 154,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc me odeia?",
+      "msg2": "talvez."
+    },
+    {
+      "id": 155,
+      "user_id": "558127486492344334",
+      "msg1": "pug você me odeia?",
+      "msg2": "talvez."
+    },
+    {
+      "id": 156,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc me odeia",
+      "msg2": "talvez."
+    },
+    {
+      "id": 157,
+      "user_id": "558127486492344334",
+      "msg1": "pug você me odeia",
+      "msg2": "talvez."
+    },
+    {
+      "id": 158,
+      "user_id": "558127486492344334",
+      "msg1": "pug homem",
+      "msg2": "sou menino ainda, tenho 15 anos caninos."
+    },
+    {
+      "id": 159,
+      "user_id": "558127486492344334",
+      "msg1": "Pug você gosta de mim?",
+      "msg2": "talvez."
+    },
+    {
+      "id": 160,
+      "user_id": "558127486492344334",
+      "msg1": "Pug vc gosta de mim?",
+      "msg2": "talvez."
+    },
+    {
+      "id": 161,
+      "user_id": "558127486492344334",
+      "msg1": "Pug você gosta de mim",
+      "msg2": "talvez."
+    },
+    {
+      "id": 162,
+      "user_id": "558127486492344334",
+      "msg1": "Pug vc gosta de mim",
+      "msg2": "talvez."
+    },
+    {
+      "id": 163,
+      "user_id": "558127486492344334",
+      "msg1": "quer nitro pug?",
+      "msg2": "quero!!!"
+    },
+    {
+      "id": 164,
+      "user_id": "558127486492344334",
+      "msg1": "quer nitro pug",
+      "msg2": "quero!!!"
+    },
+    {
+      "id": 165,
+      "user_id": "558127486492344334",
+      "msg1": "pug levanta",
+      "msg2": "não."
+    },
+    {
+      "id": 166,
+      "user_id": "558127486492344334",
+      "msg1": "pug do bem",
+      "msg2": "sou mesmo."
+    },
+    {
+      "id": 167,
+      "user_id": "558127486492344334",
+      "msg1": "pug te odeio",
+      "msg2": "eu sei que você me ama."
+    },
+    {
+      "id": 168,
+      "user_id": "558127486492344334",
+      "msg1": "Pug da a patinha",
+      "msg2": "não."
+    },
+    {
+      "id": 169,
+      "user_id": "558127486492344334",
+      "msg1": "pug corre",
+      "msg2": "não, estou cansado."
+    },
+    {
+      "id": 170,
+      "user_id": "558127486492344334",
+      "msg1": "pug gosta da alexia",
+      "msg2": "gosta não."
+    },
+    {
+      "id": 171,
+      "user_id": "558127486492344334",
+      "msg1": "rola pug",
+      "msg2": "rola você."
+    },
+    {
+      "id": 172,
+      "user_id": "558127486492344334",
+      "msg1": "pug explode",
+      "msg2": "🤯"
+    },
+    {
+      "id": 173,
+      "user_id": "558127486492344334",
+      "msg1": "pug staff",
+      "msg2": "sim, eu sou dono disso aqui."
+    },
+    {
+      "id": 174,
+      "user_id": "558127486492344334",
+      "msg1": "pug pula",
+      "msg2": "estou cansado."
+    },
+    {
+      "id": 175,
+      "user_id": "558127486492344334",
+      "msg1": "pug voa",
+      "msg2": "tá achando que eu sou galinha?"
+    },
+    {
+      "id": 176,
+      "user_id": "558127486492344334",
+      "msg1": "Morde ele pug",
+      "msg2": "morde você, estou com preguiça."
+    },
+    {
+      "id": 177,
+      "user_id": "558127486492344334",
+      "msg1": "pug gordo",
+      "msg2": "e o que você tem com isso?"
+    },
+    {
+      "id": 178,
+      "user_id": "558127486492344334",
+      "msg1": "pug magro",
+      "msg2": "e o que você tem com isso?"
+    },
+    {
+      "id": 179,
+      "user_id": "558127486492344334",
+      "msg1": "Pug pega o graveto",
+      "msg2": "au au, onde?"
+    },
+    {
+      "id": 180,
+      "user_id": "558127486492344334",
+      "msg1": "Pug pega graveto",
+      "msg2": "au au, onde?"
+    },
+    {
+      "id": 181,
+      "user_id": "558127486492344334",
+      "msg1": "Pug finge de morto",
+      "msg2": "😵"
+    },
+    {
+      "id": 182,
+      "user_id": "558127486492344334",
+      "msg1": "pug e as namoradinha",
+      "msg2": "tão lá."
+    },
+    {
+      "id": 183,
+      "user_id": "558127486492344334",
+      "msg1": "pug e as namoradinhas",
+      "msg2": "tão lá."
+    },
+    {
+      "id": 184,
+      "user_id": "558127486492344334",
+      "msg1": "pug e as namoradinhas?",
+      "msg2": "tão lá."
+    },
+    {
+      "id": 185,
+      "user_id": "558127486492344334",
+      "msg1": "pug e as namoradinha?",
+      "msg2": "tão lá."
+    },
+    {
+      "id": 186,
+      "user_id": "558127486492344334",
+      "msg1": "Pug vira-lata",
+      "msg2": "vira-lata é você!"
+    },
+    {
+      "id": 187,
+      "user_id": "558127486492344334",
+      "msg1": "Pug viralata",
+      "msg2": "vira-lata é você!"
+    },
+    {
+      "id": 188,
+      "user_id": "558127486492344334",
+      "msg1": "Pug vira lata",
+      "msg2": "vira-lata é você!"
+    },
+    {
+      "id": 189,
+      "user_id": "558127486492344334",
+      "msg1": "pug manda beijo",
+      "msg2": "😘"
+    },
+    {
+      "id": 190,
+      "user_id": "558127486492344334",
+      "msg1": "pug manda beijos",
+      "msg2": "😘"
+    },
+    {
+      "id": 191,
+      "user_id": "558127486492344334",
+      "msg1": "pug o que você gosta de fazer?",
+      "msg2": "pegar a bolinha. <:flushedsc2:752666263712563280>"
+    },
+    {
+      "id": 192,
+      "user_id": "558127486492344334",
+      "msg1": "<@!746041757502013460>",
+      "msg2": "fala meu bom! <a:pugdance:752224679015743649>"
+    },
+    {
+      "id": 193,
+      "user_id": "558127486492344334",
+      "msg1": "pug você é um cachorro?",
+      "msg2": "não, pug é uma raça de polvos."
+    },
+    {
+      "id": 194,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc é um cachorro?",
+      "msg2": "não, pug é uma raça de polvos."
+    },
+    {
+      "id": 195,
+      "user_id": "558127486492344334",
+      "msg1": "pug você é um cachorro",
+      "msg2": "não, pug é uma raça de polvos."
+    },
+    {
+      "id": 196,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc é um cachorro",
+      "msg2": "não, pug é uma raça de polvos."
+    },
+    {
+      "id": 197,
+      "user_id": "558127486492344334",
+      "msg1": "pug vira",
+      "msg2": "virar pra onde?"
+    },
+    {
+      "id": 198,
+      "user_id": "558127486492344334",
+      "msg1": "pug hetero",
+      "msg2": "o que você tem com isso?"
+    },
+    {
+      "id": 199,
+      "user_id": "558127486492344334",
+      "msg1": "pug tu é?",
+      "msg2": "cê que deixa."
+    },
+    {
+      "id": 200,
+      "user_id": "558127486492344334",
+      "msg1": "Pug tu deixa?",
+      "msg2": "será?"
+    },
+    {
+      "id": 201,
+      "user_id": "558127486492344334",
+      "msg1": "Pug você tem quantos anos?",
+      "msg2": "tenho 15 anos caninos."
+    },
+    {
+      "id": 202,
+      "user_id": "558127486492344334",
+      "msg1": "Pug você tem quantos anos",
+      "msg2": "tenho 15 anos caninos."
+    },
+    {
+      "id": 203,
+      "user_id": "558127486492344334",
+      "msg1": "Pug tu vê anime?",
+      "msg2": "eca."
+    },
+    {
+      "id": 204,
+      "user_id": "558127486492344334",
+      "msg1": "Pug tu ve anime?",
+      "msg2": "eca."
+    },
+    {
+      "id": 205,
+      "user_id": "558127486492344334",
+      "msg1": "Pug tu vê anime",
+      "msg2": "eca."
+    },
+    {
+      "id": 206,
+      "user_id": "558127486492344334",
+      "msg1": "Pug tu ve anime",
+      "msg2": "eca."
+    },
+    {
+      "id": 207,
+      "user_id": "558127486492344334",
+      "msg1": "pug gosta de kpop",
+      "msg2": "eca."
+    },
+    {
+      "id": 208,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc gosta de kpop?",
+      "msg2": "eca."
+    },
+    {
+      "id": 209,
+      "user_id": "558127486492344334",
+      "msg1": "pug você gosta de kpop?",
+      "msg2": "eca."
+    },
+    {
+      "id": 210,
+      "user_id": "558127486492344334",
+      "msg1": "pug você gosta de kpop",
+      "msg2": "eca."
+    },
+    {
+      "id": 211,
+      "user_id": "558127486492344334",
+      "msg1": "pug gostoso",
+      "msg2": "<a:pugdance:752224679015743649>"
+    },
+    {
+      "id": 212,
+      "user_id": "558127486492344334",
+      "msg1": "pug burro",
+      "msg2": "au au?"
+    },
+    {
+      "id": 213,
+      "user_id": "558127486492344334",
+      "msg1": "pug delícia",
+      "msg2": "sou mesmo."
+    },
+    {
+      "id": 214,
+      "user_id": "558127486492344334",
+      "msg1": "pug delicia",
+      "msg2": "sou mesmo."
+    },
+    {
+      "id": 215,
+      "user_id": "558127486492344334",
+      "msg1": "pug cade as cachorra?",
+      "msg2": "tão lá."
+    },
+    {
+      "id": 216,
+      "user_id": "558127486492344334",
+      "msg1": "pug me conte uma piada",
+      "msg2": "piu."
+    },
+    {
+      "id": 217,
+      "user_id": "558127486492344334",
+      "msg1": "pug kpoper",
+      "msg2": "eca."
+    },
+    {
+      "id": 218,
+      "user_id": "558127486492344334",
+      "msg1": "pug anime",
+      "msg2": "eca."
+    },
+    {
+      "id": 219,
+      "user_id": "558127486492344334",
+      "msg1": "pug tik tok",
+      "msg2": "renegade, renegade."
+    },
+    {
+      "id": 220,
+      "user_id": "558127486492344334",
+      "msg1": "pug tiktok",
+      "msg2": "renegade, renegade."
+    },
+    {
+      "id": 221,
+      "user_id": "558127486492344334",
+      "msg1": "pug manda oi",
+      "msg2": "au au (oi)."
+    },
+    {
+      "id": 222,
+      "user_id": "558127486492344334",
+      "msg1": "pug fala oi",
+      "msg2": "au au (oi)."
+    },
+    {
+      "id": 223,
+      "user_id": "558127486492344334",
+      "msg1": "pug manda foto por favor",
+      "msg2": "chama no pv."
+    },
+    {
+      "id": 224,
+      "user_id": "558127486492344334",
+      "msg1": "pug manda foto pf",
+      "msg2": "chama no pv."
+    },
+    {
+      "id": 225,
+      "user_id": "558127486492344334",
+      "msg1": "pug manda foto",
+      "msg2": "chama no pv."
+    },
+    {
+      "id": 226,
+      "user_id": "558127486492344334",
+      "msg1": "pug tiktoker",
+      "msg2": "renegade, renegade."
+    },
+    {
+      "id": 227,
+      "user_id": "558127486492344334",
+      "msg1": "pug tik toker",
+      "msg2": "renegade, renegade."
+    },
+    {
+      "id": 228,
+      "user_id": "496753139119292428",
+      "msg1": "pug gosta de bts",
+      "msg2": "나는이 밴드를 사랑한다"
+    },
+    {
+      "id": 229,
+      "user_id": "558127486492344334",
+      "msg1": "pug ql seu nome",
+      "msg2": "pug pelado."
+    },
+    {
+      "id": 230,
+      "user_id": "558127486492344334",
+      "msg1": "pug qual seu nome",
+      "msg2": "pug pelado."
+    },
+    {
+      "id": 231,
+      "user_id": "558127486492344334",
+      "msg1": "pug gosta de bts?",
+      "msg2": "나는이 밴드를 사랑한다"
+    },
+    {
+      "id": 232,
+      "user_id": "558127486492344334",
+      "msg1": "pug você gosta de bts?",
+      "msg2": "나는이 밴드를 사랑한다"
+    },
+    {
+      "id": 233,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc gosta de bts?",
+      "msg2": "나는이 밴드를 사랑한다"
+    },
+    {
+      "id": 234,
+      "user_id": "558127486492344334",
+      "msg1": "pug você gosta de bts",
+      "msg2": "나는이 밴드를 사랑한다"
+    },
+    {
+      "id": 235,
+      "user_id": "558127486492344334",
+      "msg1": "pug voce gosta de bts?",
+      "msg2": "나는이 밴드를 사랑한다"
+    },
+    {
+      "id": 236,
+      "user_id": "558127486492344334",
+      "msg1": "pug voce gosta de bts",
+      "msg2": "나는이 밴드를 사랑한다"
+    },
+    {
+      "id": 237,
+      "user_id": "558127486492344334",
+      "msg1": "morra pug",
+      "msg2": "🎗"
+    },
+    {
+      "id": 238,
+      "user_id": "496753139119292428",
+      "msg1": "pug ridículo",
+      "msg2": "me odeia?"
+    },
+    {
+      "id": 239,
+      "user_id": "533514281950511104",
+      "msg1": "mensagem",
+      "msg2": "mensagem?!"
+    },
+    {
+      "id": 240,
+      "user_id": "496753139119292428",
+      "msg1": "pug americano",
+      "msg2": "hello, how are you? 😳"
+    },
+    {
+      "id": 241,
+      "user_id": "496753139119292428",
+      "msg1": "pug tem whatsapp?",
+      "msg2": "sim, mas não vou passar para você. 😘"
+    },
+    {
+      "id": 242,
+      "user_id": "494303680938639380",
+      "msg1": "bruno berti",
+      "msg2": "Sarrador **profissional**. <a:steveshift:752276927523323905>"
+    },
+    {
+      "id": 243,
+      "user_id": "553342985933160449",
+      "msg1": "pug você gosta de cuscuz?",
+      "msg2": "sim, eu amo."
+    },
+    {
+      "id": 244,
+      "user_id": "553342985933160449",
+      "msg1": "Pug você é de Deus?",
+      "msg2": "sim, irmão! Glória ao Senhor!!!"
+    },
+    {
+      "id": 245,
+      "user_id": "494303680938639380",
+      "msg1": "pug!",
+      "msg2": "oi?!"
+    },
+    {
+      "id": 246,
+      "user_id": "494303680938639380",
+      "msg1": "qual seu nome pug",
+      "msg2": "pug pelado."
+    },
+    {
+      "id": 247,
+      "user_id": "494303680938639380",
+      "msg1": "qual vosso nome pug",
+      "msg2": "pug pelado."
+    },
+    {
+      "id": 248,
+      "user_id": "553342985933160449",
+      "msg1": "Pug vc namora?",
+      "msg2": "sim, com a Molly."
+    },
+    {
+      "id": 249,
+      "user_id": "249525932954484736",
+      "msg1": "pug tá em manutenção?",
+      "msg2": "nunca bb, estava no petshop."
+    },
+    {
+      "id": 250,
+      "user_id": "249525932954484736",
+      "msg1": "pug está em manutenção?",
+      "msg2": "nunca bb, estava no petshop."
+    },
+    {
+      "id": 251,
+      "user_id": "533514281950511104",
+      "msg1": "meu SkyShield não funciona",
+      "msg2": "problemas com o **SkyShield**? Confira o tutorial a seguir com alguns passos para a solução do seu problema: https://forum.skycraft.com.br/topic/117077-problemas-com-o-skyshield/"
+    },
+    {
+      "id": 252,
+      "user_id": "533514281950511104",
+      "msg1": "meu SkyShield n funciona",
+      "msg2": "problemas com o **SkyShield**? Confira o tutorial a seguir com alguns passos para a solução do seu problema: https://forum.skycraft.com.br/topic/117077-problemas-com-o-skyshield/\n**ID da mensagem: **388"
+    },
+    {
+      "id": 253,
+      "user_id": "533514281950511104",
+      "msg1": "oi pug",
+      "msg2": "oi, tudo bem?"
+    },
+    {
+      "id": 254,
+      "user_id": "533514281950511104",
+      "msg1": "que fofo pug",
+      "msg2": "são seus olhos!"
+    },
+    {
+      "id": 255,
+      "user_id": "533514281950511104",
+      "msg1": "pega pug",
+      "msg2": "pegar o quê? <:thonk:722869630267293699>"
+    },
+    {
+      "id": 256,
+      "user_id": "533514281950511104",
+      "msg1": "como tiro uma dúvida pug?",
+      "msg2": "utilize o canal de texto <#676549925135187987> ou acesse o canal de voz “aguardando” para sanar suas dúvidas, um staffer vai te responder!"
+    },
+    {
+      "id": 257,
+      "user_id": "533514281950511104",
+      "msg1": "muito bom pug",
+      "msg2": "fui treinado pra isso!"
+    },
+    {
+      "id": 258,
+      "user_id": "533514281950511104",
+      "msg1": "oxe",
+      "msg2": "auau."
+    },
+    {
+      "id": 259,
+      "user_id": "533514281950511104",
+      "msg1": "pug você é feio",
+      "msg2": "feio é você! 🤡"
+    },
+    {
+      "id": 260,
+      "user_id": "533514281950511104",
+      "msg1": "pug vc é feio",
+      "msg2": "feio é você! 🤡"
+    },
+    {
+      "id": 261,
+      "user_id": "533514281950511104",
+      "msg1": "pug você eh feio",
+      "msg2": "feio é você! 🤡"
+    },
+    {
+      "id": 262,
+      "user_id": "533514281950511104",
+      "msg1": "pug cristão",
+      "msg2": "amém."
+    },
+    {
+      "id": 263,
+      "user_id": "533514281950511104",
+      "msg1": "te amo",
+      "msg2": "gado, kkk."
+    },
+    {
+      "id": 264,
+      "user_id": "533514281950511104",
+      "msg1": "qual e a graça",
+      "msg2": "sEnHoRaS e SeNhOrEs 😈 🤡"
+    },
+    {
+      "id": 265,
+      "user_id": "533514281950511104",
+      "msg1": "cala boca",
+      "msg2": "não mande o amiguinho calar a boca. <:paosive:722869629965434931>"
+    },
+    {
+      "id": 266,
+      "user_id": "533514281950511104",
+      "msg1": "cala a boca",
+      "msg2": "não mande o amiguinho calar a boca. <:paosive:722869629965434931>"
+    },
+    {
+      "id": 267,
+      "user_id": "533514281950511104",
+      "msg1": "fullpvp2",
+      "msg2": "nunca nem vi..."
+    },
+    {
+      "id": 268,
+      "user_id": "533514281950511104",
+      "msg1": "fullpvp 2",
+      "msg2": "nunca nem vi..."
+    },
+    {
+      "id": 269,
+      "user_id": "533514281950511104",
+      "msg1": "fpvp2",
+      "msg2": "nunca nem vi..."
+    },
+    {
+      "id": 270,
+      "user_id": "533514281950511104",
+      "msg1": "fpvp 2",
+      "msg2": "nunca nem vi..."
+    },
+    {
+      "id": 271,
+      "user_id": "533514281950511104",
+      "msg1": "pug bonito",
+      "msg2": "assim eu fico envergonhado. <a:goodsc:752655532908871700>"
+    },
+    {
+      "id": 272,
+      "user_id": "249525932954484736",
+      "msg1": "tudo pug",
+      "msg2": "que bom! <:hmmm:552145852802662411>"
+    },
+    {
+      "id": 273,
+      "user_id": "533514281950511104",
+      "msg1": "rádio",
+      "msg2": "confira agora a programação da **Rádio**: http://bit.ly/CalendRadio"
+    },
+    {
+      "id": 274,
+      "user_id": "249525932954484736",
+      "msg1": "pug faz academia",
+      "msg2": "eu só malho glúteo. <:flushedsc:752653877836251286>"
+    },
+    {
+      "id": 275,
+      "user_id": "533514281950511104",
+      "msg1": "skycraft",
+      "msg2": "melhor servidor de minecraft! <:leeow:739804400566141009>"
+    },
+    {
+      "id": 276,
+      "user_id": "533514281950511104",
+      "msg1": "qual é a graça?",
+      "msg2": "imaginei que você perguntaria. 😈"
+    },
+    {
+      "id": 278,
+      "user_id": "533514281950511104",
+      "msg1": "triste pug",
+      "msg2": "<:steve:722869630489853982>"
+    },
+    {
+      "id": 279,
+      "user_id": "533514281950511104",
+      "msg1": "<:Viihh:732701173433368657>",
+      "msg2": "<@!626229971945259018>"
+    },
+    {
+      "id": 280,
+      "user_id": "533514281950511104",
+      "msg1": "kkk",
+      "msg2": "tá rindo do quê?"
+    },
+    {
+      "id": 281,
+      "user_id": "533514281950511104",
+      "msg1": "meu deus pug",
+      "msg2": "não use o nome dele em vão."
+    },
+    {
+      "id": 282,
+      "user_id": "533514281950511104",
+      "msg1": "qual o link do formulário?",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 283,
+      "user_id": "533514281950511104",
+      "msg1": "qual o link do formulário",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 284,
+      "user_id": "533514281950511104",
+      "msg1": "quero ser da staff",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 286,
+      "user_id": "533514281950511104",
+      "msg1": "onde eu viro da staff",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 287,
+      "user_id": "533514281950511104",
+      "msg1": "onde eu viro staff",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 288,
+      "user_id": "533514281950511104",
+      "msg1": "como eu viro staff",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 289,
+      "user_id": "533514281950511104",
+      "msg1": "como eu viro da staff",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 290,
+      "user_id": "533514281950511104",
+      "msg1": "link do formulário",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 291,
+      "user_id": "533514281950511104",
+      "msg1": "link do formulario",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 292,
+      "user_id": "533514281950511104",
+      "msg1": "baderna on",
+      "msg2": "tá liberada a baderna? 😈"
+    },
+    {
+      "id": 293,
+      "user_id": "533514281950511104",
+      "msg1": "micaeli",
+      "msg2": "oiiiiiiiiii!"
+    },
+    {
+      "id": 294,
+      "user_id": "533514281950511104",
+      "msg1": "como vira staff?",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 295,
+      "user_id": "533514281950511104",
+      "msg1": "como vira staff",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 296,
+      "user_id": "533514281950511104",
+      "msg1": "me manda o form",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 297,
+      "user_id": "533514281950511104",
+      "msg1": "algm me manda o form?",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 298,
+      "user_id": "533514281950511104",
+      "msg1": "algm me manda o form",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 299,
+      "user_id": "533514281950511104",
+      "msg1": "alguem me manda o form?",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 300,
+      "user_id": "533514281950511104",
+      "msg1": "alguem me manda o form",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 301,
+      "user_id": "533514281950511104",
+      "msg1": "alguém me manda o form",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 302,
+      "user_id": "533514281950511104",
+      "msg1": "alguém me manda o form?",
+      "msg2": "formulário para a **moderação**: https://bit.ly/FormulárioMD | formulário para a **BuildTeam**: https://bit.ly/FormulárioBT."
+    },
+    {
+      "id": 303,
+      "user_id": "533514281950511104",
+      "msg1": "gato",
+      "msg2": "miau? <:eca:722869630410162208>"
+    },
+    {
+      "id": 304,
+      "user_id": "533514281950511104",
+      "msg1": "pug chato",
+      "msg2": "chatos são os gatos... <:eca:722869630410162208>"
+    },
+    {
+      "id": 305,
+      "user_id": "533514281950511104",
+      "msg1": "pug me dá nitro",
+      "msg2": "sou pobre, me dá um, por favor!"
+    },
+    {
+      "id": 306,
+      "user_id": "533514281950511104",
+      "msg1": "apresentadora do talkshow",
+      "msg2": "decadente."
+    },
+    {
+      "id": 307,
+      "user_id": "533514281950511104",
+      "msg1": "pug bobo",
+      "msg2": "bobo é você. <:tonguesc:752653044210073702>"
+    },
+    {
+      "id": 308,
+      "user_id": "533514281950511104",
+      "msg1": "pug militante",
+      "msg2": "claro, a Luuua está me ensinando."
+    },
+    {
+      "id": 309,
+      "user_id": "533514281950511104",
+      "msg1": "pug legal",
+      "msg2": "<:flushedsc:752653877836251286>"
+    },
+    {
+      "id": 310,
+      "user_id": "533514281950511104",
+      "msg1": "pug monstro",
+      "msg2": "bu! 👻"
+    },
+    {
+      "id": 311,
+      "user_id": "533514281950511104",
+      "msg1": "pug gigante",
+      "msg2": "sou pequeno, tá? 🥺"
+    },
+    {
+      "id": 312,
+      "user_id": "533514281950511104",
+      "msg1": "pug corno",
+      "msg2": "seu pai. 👍"
+    },
+    {
+      "id": 313,
+      "user_id": "533514281950511104",
+      "msg1": "pug mal",
+      "msg2": "😈"
+    },
+    {
+      "id": 314,
+      "user_id": "533514281950511104",
+      "msg1": "pug gado",
+      "msg2": "ela é diferente..."
+    },
+    {
+      "id": 315,
+      "user_id": "533514281950511104",
+      "msg1": "mg",
+      "msg2": "Minas Gerais?"
+    },
+    {
+      "id": 316,
+      "user_id": "533514281950511104",
+      "msg1": "bedwars",
+      "msg2": "😴"
+    },
+    {
+      "id": 317,
+      "user_id": "533514281950511104",
+      "msg1": "esse pug é muito gado",
+      "msg2": "gado é você. <:grr:750453613456785508>"
+    },
+    {
+      "id": 318,
+      "user_id": "533514281950511104",
+      "msg1": "pug, quem é seu dono",
+      "msg2": "o Leeow."
+    },
+    {
+      "id": 319,
+      "user_id": "533514281950511104",
+      "msg1": "pug, quem é seu dono?",
+      "msg2": "o Leeow."
+    },
+    {
+      "id": 320,
+      "user_id": "533514281950511104",
+      "msg1": "pug quem é seu dono?",
+      "msg2": "o Leeow."
+    },
+    {
+      "id": 321,
+      "user_id": "533514281950511104",
+      "msg1": "pug quem é seu dono",
+      "msg2": "o Leeow."
+    },
+    {
+      "id": 322,
+      "user_id": "533514281950511104",
+      "msg1": "pug te amo",
+      "msg2": "<:coracao:567166345246933013>"
+    },
+    {
+      "id": 323,
+      "user_id": "533514281950511104",
+      "msg1": "pug deita",
+      "msg2": "deitar você de porrada, kkkk. Brincadeira, sem agressão. <:puts:674795782636961792>"
+    },
+    {
+      "id": 324,
+      "user_id": "533514281950511104",
+      "msg1": "tchau pug",
+      "msg2": "saudades, rs."
+    },
+    {
+      "id": 325,
+      "user_id": "533514281950511104",
+      "msg1": "pug você tem namorada?",
+      "msg2": "sim, a Molly."
+    },
+    {
+      "id": 326,
+      "user_id": "533514281950511104",
+      "msg1": "pug vc tem namorada?",
+      "msg2": "sim, a Molly."
+    },
+    {
+      "id": 327,
+      "user_id": "533514281950511104",
+      "msg1": "pug voce tem namorada?",
+      "msg2": "sim, a Molly."
+    },
+    {
+      "id": 328,
+      "user_id": "533514281950511104",
+      "msg1": "vc tem namorada pug?",
+      "msg2": "sim, a Molly."
+    },
+    {
+      "id": 329,
+      "user_id": "533514281950511104",
+      "msg1": "voce tem namorada pug?",
+      "msg2": "sim, a Molly."
+    },
+    {
+      "id": 330,
+      "user_id": "533514281950511104",
+      "msg1": "você tem namorada pug?",
+      "msg2": "sim, a Molly."
+    },
+    {
+      "id": 331,
+      "user_id": "533514281950511104",
+      "msg1": "pug devolve",
+      "msg2": "au au, vou te morder, parceiro... <:grr:750453613456785508>"
+    },
+    {
+      "id": 332,
+      "user_id": "533514281950511104",
+      "msg1": "pug solta",
+      "msg2": "au au, vou te morder parceiro. <:grr:750453613456785508>"
+    },
+    {
+      "id": 333,
+      "user_id": "533514281950511104",
+      "msg1": "pug preguiçoso",
+      "msg2": "sou preguiçoso mesmo."
+    },
+    {
+      "id": 334,
+      "user_id": "533514281950511104",
+      "msg1": "Pug o que você gosta de fazer",
+      "msg2": "pegar a bolinha. <:flushedsc2:752666263712563280>"
+    },
+    {
+      "id": 335,
+      "user_id": "533514281950511104",
+      "msg1": "Pug o que você gosta de fazer?",
+      "msg2": "pegar a bolinha. <:flushedsc2:752666263712563280>"
+    },
+    {
+      "id": 336,
+      "user_id": "533514281950511104",
+      "msg1": "Pug o que vc gosta de fazer",
+      "msg2": "pegar a bolinha. <:flushedsc2:752666263712563280>"
+    },
+    {
+      "id": 337,
+      "user_id": "533514281950511104",
+      "msg1": "pug virgem",
+      "msg2": "??? Indiscreto você."
+    },
+    {
+      "id": 338,
+      "user_id": "533514281950511104",
+      "msg1": "pug, hablas español?",
+      "msg2": "si, yo hablo."
+    },
+    {
+      "id": 339,
+      "user_id": "533514281950511104",
+      "msg1": "pug, hablas español",
+      "msg2": "si, yo hablo."
+    },
+    {
+      "id": 340,
+      "user_id": "533514281950511104",
+      "msg1": "pug do you speak english?",
+      "msg2": "yes, I speak."
+    },
+    {
+      "id": 341,
+      "user_id": "533514281950511104",
+      "msg1": "pug do you speak english",
+      "msg2": "yes, I speak."
+    },
+    {
+      "id": 342,
+      "user_id": "533514281950511104",
+      "msg1": "pug, do you speak english?",
+      "msg2": "yes, I speak."
+    },
+    {
+      "id": 343,
+      "user_id": "533514281950511104",
+      "msg1": "pug vc precisa de uma namorada",
+      "msg2": "eu tenho a Molly."
+    },
+    {
+      "id": 344,
+      "user_id": "533514281950511104",
+      "msg1": "pug você precisa de uma namorada",
+      "msg2": "tenho a Molly."
+    },
+    {
+      "id": 345,
+      "user_id": "558127486492344334",
+      "msg1": "Pug machista",
+      "msg2": "sou não, respeita as mina."
+    },
+    {
+      "id": 346,
+      "user_id": "558127486492344334",
+      "msg1": "pug heterossexual",
+      "msg2": "e o que você tem com isso?"
+    },
+    {
+      "id": 347,
+      "user_id": "558127486492344334",
+      "msg1": "pug morde",
+      "msg2": "auau, não quero. 👍"
+    },
+    {
+      "id": 349,
+      "user_id": "533514281950511104",
+      "msg1": "casada?",
+      "msg2": "o caçador de casadas está online. 😎"
+    },
+    {
+      "id": 350,
+      "user_id": "558127486492344334",
+      "msg1": "pug analfabeto",
+      "msg2": "mim ser burro mermo."
+    },
+    {
+      "id": 351,
+      "user_id": "533514281950511104",
+      "msg1": "pug tu é",
+      "msg2": "cê que deixa."
+    },
+    {
+      "id": 352,
+      "user_id": "533514281950511104",
+      "msg1": "pug feminista",
+      "msg2": "militante de Twitter."
+    },
+    {
+      "id": 353,
+      "user_id": "533514281950511104",
+      "msg1": "pug pegador",
+      "msg2": "pv liberado, rs."
+    },
+    {
+      "id": 354,
+      "user_id": "533514281950511104",
+      "msg1": "pug tem pulga",
+      "msg2": "não, sou limpinho. <:grr:750453613456785508>"
+    },
+    {
+      "id": 355,
+      "user_id": "249525932954484736",
+      "msg1": "bilada",
+      "msg2": "surra de `***` mole."
+    },
+    {
+      "id": 356,
+      "user_id": "533514281950511104",
+      "msg1": "pug cancelado",
+      "msg2": "Twitter?"
+    },
+    {
+      "id": 357,
+      "user_id": "533514281950511104",
+      "msg1": "pug cancelado?",
+      "msg2": "Twitter?"
+    },
+    {
+      "id": 358,
+      "user_id": "533514281950511104",
+      "msg1": "pug quanto é 1 + 1",
+      "msg2": "7."
+    },
+    {
+      "id": 359,
+      "user_id": "533514281950511104",
+      "msg1": "pug quanto é 1+1",
+      "msg2": "7."
+    },
+    {
+      "id": 360,
+      "user_id": "533514281950511104",
+      "msg1": "pug quanto é 1 + 1?",
+      "msg2": "7."
+    },
+    {
+      "id": 361,
+      "user_id": "533514281950511104",
+      "msg1": "pug quanto é 1+1?",
+      "msg2": "7."
+    },
+    {
+      "id": 362,
+      "user_id": "533514281950511104",
+      "msg1": "pug ateu",
+      "msg2": "a paz do senhor."
+    },
+    {
+      "id": 363,
+      "user_id": "533514281950511104",
+      "msg1": "pug qual seu nome?",
+      "msg2": "Pug fofo, pros íntimos pelado."
+    },
+    {
+      "id": 364,
+      "user_id": "533514281950511104",
+      "msg1": "pug ql seu nome?",
+      "msg2": "Pug fofo, pros íntimos pelado."
+    },
+    {
+      "id": 365,
+      "user_id": "558127486492344334",
+      "msg1": "bot",
+      "msg2": "não me chame de bot, me chame de pug."
+    },
+    {
+      "id": 366,
+      "user_id": "558127486492344334",
+      "msg1": "↑ ↑ ↓ ↓ ← → ← → B A",
+      "msg2": "modo fofo ativado com sucesso!"
+    },
+    {
+      "id": 367,
+      "user_id": "558127486492344334",
+      "msg1": "pug cachoro",
+      "msg2": "não, pug é uma raça de elefantes."
+    },
+    {
+      "id": 368,
+      "user_id": "558127486492344334",
+      "msg1": "pug cachorro",
+      "msg2": "não, pug é uma raça de elefantes."
+    },
+    {
+      "id": 369,
+      "user_id": "558127486492344334",
+      "msg1": "pug tu é gostosaum",
+      "msg2": "eu sei. 😎"
+    },
+    {
+      "id": 370,
+      "user_id": "558127486492344334",
+      "msg1": "pug tu e gostosaum",
+      "msg2": "eu sei. 😎"
+    },
+    {
+      "id": 371,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc é gostosaum",
+      "msg2": "eu sei. 😎"
+    },
+    {
+      "id": 372,
+      "user_id": "558127486492344334",
+      "msg1": "pug você é gostosaum",
+      "msg2": "eu sei. 😎"
+    },
+    {
+      "id": 373,
+      "user_id": "558127486492344334",
+      "msg1": "pug voce e gostosaum",
+      "msg2": "eu sei. 😎"
+    },
+    {
+      "id": 374,
+      "user_id": "558127486492344334",
+      "msg1": "pug bugado",
+      "msg2": "chama o Leeow Mel!!!"
+    },
+    {
+      "id": 375,
+      "user_id": "558127486492344334",
+      "msg1": "Pug você tem filhos?",
+      "msg2": "não e nem quero ter. <a:pugdance:752224679015743649>"
+    },
+    {
+      "id": 376,
+      "user_id": "558127486492344334",
+      "msg1": "Pug voce tem filhos?",
+      "msg2": "não e nem quero ter. <a:pugdance:752224679015743649>"
+    },
+    {
+      "id": 377,
+      "user_id": "558127486492344334",
+      "msg1": "Pug Vc tem filhos",
+      "msg2": "não e nem quero ter. <a:pugdance:752224679015743649>"
+    },
+    {
+      "id": 378,
+      "user_id": "558127486492344334",
+      "msg1": "Pug você tem filhos",
+      "msg2": "não e nem quero ter. <a:pugdance:752224679015743649>"
+    },
+    {
+      "id": 379,
+      "user_id": "558127486492344334",
+      "msg1": "pug late",
+      "msg2": "não te obedeço."
+    },
+    {
+      "id": 380,
+      "user_id": "558127486492344334",
+      "msg1": "pug vestido",
+      "msg2": "pug pelado."
+    },
+    {
+      "id": 381,
+      "user_id": "558127486492344334",
+      "msg1": "pug pug",
+      "msg2": "au au au au?"
+    },
+    {
+      "id": 382,
+      "user_id": "558127486492344334",
+      "msg1": "pug pug pug",
+      "msg2": "au au au au au au?"
+    },
+    {
+      "id": 383,
+      "user_id": "558127486492344334",
+      "msg1": "pug pug pug pug",
+      "msg2": "au au au au au au au au?"
+    },
+    {
+      "id": 384,
+      "user_id": "558127486492344334",
+      "msg1": "Pug...",
+      "msg2": "oi..."
+    },
+    {
+      "id": 385,
+      "user_id": "558127486492344334",
+      "msg1": "pug maravilhoso",
+      "msg2": "maravilhoso é você, rs."
+    },
+    {
+      "id": 386,
+      "user_id": "558127486492344334",
+      "msg1": "pug maravilindo",
+      "msg2": "maravilhoso é você, rs."
+    },
+    {
+      "id": 387,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc e inteligente",
+      "msg2": "1 + 1 é 11."
+    },
+    {
+      "id": 388,
+      "user_id": "558127486492344334",
+      "msg1": "pug você é inteligente",
+      "msg2": "1 + 1 é 11."
+    },
+    {
+      "id": 389,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc é inteligente",
+      "msg2": "1 + 1 é 11."
+    },
+    {
+      "id": 390,
+      "user_id": "558127486492344334",
+      "msg1": "pug você é inteligente?",
+      "msg2": "1 + 1 é 11."
+    },
+    {
+      "id": 391,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc é inteligente?",
+      "msg2": "1 + 1 é 11."
+    },
+    {
+      "id": 392,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc e inteligente?",
+      "msg2": "1 + 1 é 11."
+    },
+    {
+      "id": 393,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc e da raça pug?",
+      "msg2": "não, sou um shitzu."
+    },
+    {
+      "id": 394,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc é da raça pug?",
+      "msg2": "não, sou um shitzu."
+    },
+    {
+      "id": 395,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc é da raça pug",
+      "msg2": "não, sou um shitzu."
+    },
+    {
+      "id": 396,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc e da raça pug",
+      "msg2": "não, sou um shitzu."
+    },
+    {
+      "id": 397,
+      "user_id": "558127486492344334",
+      "msg1": "pug você é da raça pug?",
+      "msg2": "não, sou um shitzu."
+    },
+    {
+      "id": 398,
+      "user_id": "558127486492344334",
+      "msg1": "pug você é da raça pug",
+      "msg2": "não, sou um shitzu."
+    },
+    {
+      "id": 399,
+      "user_id": "558127486492344334",
+      "msg1": "pug voce é da raça pug",
+      "msg2": "não, sou um shitzu."
+    },
+    {
+      "id": 400,
+      "user_id": "558127486492344334",
+      "msg1": "pug você e da raça pug?",
+      "msg2": "não, sou um shitzu."
+    },
+    {
+      "id": 401,
+      "user_id": "558127486492344334",
+      "msg1": "pug como está o dia hoje?",
+      "msg2": "sai do computador e vai lá ver."
+    },
+    {
+      "id": 402,
+      "user_id": "558127486492344334",
+      "msg1": "pug como ta o dia hoje?",
+      "msg2": "sai do computador e vai lá ver."
+    },
+    {
+      "id": 403,
+      "user_id": "558127486492344334",
+      "msg1": "pug como ta o dia hoje",
+      "msg2": "sai do computador e vai lá ver."
+    },
+    {
+      "id": 404,
+      "user_id": "558127486492344334",
+      "msg1": "salve pug",
+      "msg2": "salve!"
+    },
+    {
+      "id": 405,
+      "user_id": "249525932954484736",
+      "msg1": "sleep",
+      "msg2": "🤠"
+    },
+    {
+      "id": 406,
+      "user_id": "558127486492344334",
+      "msg1": "Pug me beija?",
+      "msg2": "😘"
+    },
+    {
+      "id": 407,
+      "user_id": "558127486492344334",
+      "msg1": "Pug me beija",
+      "msg2": "😘"
+    },
+    {
+      "id": 408,
+      "user_id": "558127486492344334",
+      "msg1": "pug me mata?",
+      "msg2": "não consigo nem ficar em pé, como vou te matar?"
+    },
+    {
+      "id": 409,
+      "user_id": "558127486492344334",
+      "msg1": "pug me mata",
+      "msg2": "não consigo nem ficar em pé, como vou te matar?"
+    },
+    {
+      "id": 410,
+      "user_id": "558127486492344334",
+      "msg1": "pug do mal",
+      "msg2": "pug do bem."
+    },
+    {
+      "id": 411,
+      "user_id": "558127486492344334",
+      "msg1": "pug aleatorio",
+      "msg2": "<a:goodsc:752655532908871700> <:flushedsc2:752666263712563280> <a:pugdance:752224679015743649> <a:steveshift:752276927523323905> <a:pensivegif:752261663280857178>"
+    },
+    {
+      "id": 412,
+      "user_id": "558127486492344334",
+      "msg1": "pug aleatório",
+      "msg2": "<a:goodsc:752655532908871700> <:flushedsc2:752666263712563280> <a:pugdance:752224679015743649> <a:steveshift:752276927523323905> <a:pensivegif:752261663280857178>"
+    },
+    {
+      "id": 413,
+      "user_id": "558127486492344334",
+      "msg1": "pug skycraft",
+      "msg2": "minha casa."
+    },
+    {
+      "id": 414,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc gosta do skycraft?",
+      "msg2": "melhor servidor!"
+    },
+    {
+      "id": 415,
+      "user_id": "558127486492344334",
+      "msg1": "pug você gosta do skycraft?",
+      "msg2": "melhor servidor!"
+    },
+    {
+      "id": 416,
+      "user_id": "558127486492344334",
+      "msg1": "pug voce gosta do skycraft?",
+      "msg2": "melhor servidor!"
+    },
+    {
+      "id": 417,
+      "user_id": "558127486492344334",
+      "msg1": "pug voce gosta do skycraft",
+      "msg2": "melhor servidor!"
+    },
+    {
+      "id": 418,
+      "user_id": "558127486492344334",
+      "msg1": "pug você gosta do skycraft",
+      "msg2": "melhor servidor!"
+    },
+    {
+      "id": 419,
+      "user_id": "558127486492344334",
+      "msg1": "pug vc gosta do skycraft",
+      "msg2": "melhor servidor!"
+    },
+    {
+      "id": 420,
+      "user_id": "558127486492344334",
+      "msg1": "pug você e da raça pug",
+      "msg2": "não, sou um shitzu."
+    },
+    {
+      "id": 421,
+      "user_id": "249525932954484736",
+      "msg1": "denunciar",
+      "msg2": "Para denunciar alguém em nosso discord use o comando `.denunciar <@user> <motivo e prova>`!"
+    },
+    {
+      "id": 422,
+      "user_id": "249525932954484736",
+      "msg1": "pug ilegal",
+      "msg2": "eu sigo as leis. <:think:722869630305173526>"
+    },
+    {
+      "id": 423,
+      "user_id": "249525932954484736",
+      "msg1": "pug fechado com super xandão?",
+      "msg2": "xandão e pug 🤝 no fim dos tempos."
+    },
+    {
+      "id": 424,
+      "user_id": "249525932954484736",
+      "msg1": "pug você é fechado com super xandão?",
+      "msg2": "xandão e pug 🤝 no fim dos tempos."
+    },
+    {
+      "id": 425,
+      "user_id": "249525932954484736",
+      "msg1": "pug cala boca",
+      "msg2": "não. <:ban:699977301823193178>"
+    },
+    {
+      "id": 426,
+      "user_id": "249525932954484736",
+      "msg1": "pug cala a boca",
+      "msg2": "não. <:ban:699977301823193178>"
+    },
+    {
+      "id": 427,
+      "user_id": "249525932954484736",
+      "msg1": "pug podre",
+      "msg2": "ban? <:ban:699977301823193178>"
+    },
+    {
+      "id": 428,
+      "user_id": "533514281950511104",
+      "msg1": "sim e você pug?",
+      "msg2": "estou também!"
+    },
+    {
+      "id": 429,
+      "user_id": "533514281950511104",
+      "msg1": "sim, e você pug?",
+      "msg2": "estou também!"
+    },
+    {
+      "id": 430,
+      "user_id": "533514281950511104",
+      "msg1": "vc namora pug?",
+      "msg2": "enrolado..."
+    },
+    {
+      "id": 431,
+      "user_id": "533514281950511104",
+      "msg1": "pug me namora",
+      "msg2": "rs, não."
+    },
+    {
+      "id": 432,
+      "user_id": "533514281950511104",
+      "msg1": "desculpa pug",
+      "msg2": "eu te perdoo... <:paosive:722869629965434931>"
+    },
+    {
+      "id": 433,
+      "user_id": "533514281950511104",
+      "msg1": "au au",
+      "msg2": "só eu posso latir, au au."
+    },
+    {
+      "id": 434,
+      "user_id": "533514281950511104",
+      "msg1": "pug vai ter rádio",
+      "msg2": "estarei lá!"
+    },
+    {
+      "id": 435,
+      "user_id": "496753139119292428",
+      "msg1": "sucumba pug",
+      "msg2": "muahahaha!"
+    },
+    {
+      "id": 436,
+      "user_id": "249525932954484736",
+      "msg1": "pug mano",
+      "msg2": "mlk."
+    },
+    {
+      "id": 437,
+      "user_id": "626229971945259018",
+      "msg1": "Como faço uma sugestão",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 438,
+      "user_id": "533514281950511104",
+      "msg1": "pug rima",
+      "msg2": "na rima vou te matar, au au, eu sou o melhor, afinal."
+    },
+    {
+      "id": 439,
+      "user_id": "626229971945259018",
+      "msg1": "Como faço uma sugestão?",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 440,
+      "user_id": "626229971945259018",
+      "msg1": "Como faço uma sugestao?",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 441,
+      "user_id": "626229971945259018",
+      "msg1": "Como faço uma sugestao",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 442,
+      "user_id": "626229971945259018",
+      "msg1": "Como fazer uma sugestão?",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 443,
+      "user_id": "626229971945259018",
+      "msg1": "Como fazer uma sugestão",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 444,
+      "user_id": "626229971945259018",
+      "msg1": "Como fazer uma sugestao",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 445,
+      "user_id": "626229971945259018",
+      "msg1": "Como envio uma sugestão?",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 446,
+      "user_id": "626229971945259018",
+      "msg1": "Como envio uma sugestão",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 447,
+      "user_id": "626229971945259018",
+      "msg1": "Como envio uma sugestao?",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 448,
+      "user_id": "626229971945259018",
+      "msg1": "Como envio uma sugestao",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 449,
+      "user_id": "626229971945259018",
+      "msg1": "quero fazer uma sugestão",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 450,
+      "user_id": "626229971945259018",
+      "msg1": "Como sugiro algo para o servidor?",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 451,
+      "user_id": "626229971945259018",
+      "msg1": "Como sugiro algo para o servidor",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 452,
+      "user_id": "626229971945259018",
+      "msg1": "Como sugiro algo ao servidor",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 453,
+      "user_id": "626229971945259018",
+      "msg1": "Como sugiro algo ao servidor?",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 454,
+      "user_id": "533514281950511104",
+      "msg1": "pug você namora?",
+      "msg2": "enrolado, rs."
+    },
+    {
+      "id": 455,
+      "user_id": "533514281950511104",
+      "msg1": "tu é pug?",
+      "msg2": "cê que deixa."
+    },
+    {
+      "id": 456,
+      "user_id": "533514281950511104",
+      "msg1": "Pug, tu é?",
+      "msg2": "cê que deixa."
+    },
+    {
+      "id": 457,
+      "user_id": "533514281950511104",
+      "msg1": "tu é, pug?",
+      "msg2": "cê que deixa."
+    },
+    {
+      "id": 458,
+      "user_id": "533514281950511104",
+      "msg1": "qual sua altura, pug?",
+      "msg2": "sou bem pequenininho, ksks. 🙈"
+    },
+    {
+      "id": 459,
+      "user_id": "626229971945259018",
+      "msg1": "Como faz sugestão?",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 460,
+      "user_id": "626229971945259018",
+      "msg1": "Como faz uma sugestão",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 461,
+      "user_id": "533514281950511104",
+      "msg1": "suav pug?",
+      "msg2": "suavv, parceiro!"
+    },
+    {
+      "id": 462,
+      "user_id": "626229971945259018",
+      "msg1": "Como faz sugestao",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 463,
+      "user_id": "626229971945259018",
+      "msg1": "Como faz sugestao?",
+      "msg2": "saiba como sugerir algo ao servidor, acesse: https://.bit.ly/TutoSGT\n•Ou clique para fazer uma sugestão diretamente: https://.bit.ly/TopicSGT"
+    },
+    {
+      "id": 464,
+      "user_id": "533514281950511104",
+      "msg1": "pug gato",
+      "msg2": "odeio gatos, au au. <:eca:722869630410162208>"
+    },
+    {
+      "id": 465,
+      "user_id": "626229971945259018",
+      "msg1": "pug bobao",
+      "msg2": "<:thonk:722869630267293699>"
+    },
+    {
+      "id": 466,
+      "user_id": "533514281950511104",
+      "msg1": "pug bobão",
+      "msg2": "<:thonk:722869630267293699>"
+    },
+    {
+      "id": 467,
+      "user_id": "533514281950511104",
+      "msg1": "pug lindinho",
+      "msg2": "sou gatinho mesmo, miau."
+    },
+    {
+      "id": 468,
+      "user_id": "533514281950511104",
+      "msg1": "pug me da nitro por favor",
+      "msg2": "eu quero um também... <:paosive:722869629965434931>"
+    },
+    {
+      "id": 469,
+      "user_id": "626229971945259018",
+      "msg1": "Pug fofinho",
+      "msg2": "assim eu fico tímido. <:flushedsc:752653877836251286>"
+    },
+    {
+      "id": 470,
+      "user_id": "626229971945259018",
+      "msg1": "pug me da nitro",
+      "msg2": "eu quero um também... <:paosive:722869629965434931>"
+    },
+    {
+      "id": 471,
+      "user_id": "533514281950511104",
+      "msg1": "pug, quais são as 7 maravilhas do mundo?",
+      "msg2": "só sei uma, eu!"
+    },
+    {
+      "id": 472,
+      "user_id": "533514281950511104",
+      "msg1": "pug quais são as 7 maravilhas do mundo?",
+      "msg2": "só sei uma, eu!"
+    },
+    {
+      "id": 473,
+      "user_id": "533514281950511104",
+      "msg1": "como faço uma denúncia?",
+      "msg2": "use o comando .denunciar <**@user**> <**motivo e prova**> no canal <#602277921347993610>!"
+    },
+    {
+      "id": 474,
+      "user_id": "533514281950511104",
+      "msg1": "pug quais são as 7 maravilhas do mundo",
+      "msg2": "só sei uma, eu!"
+    },
+    {
+      "id": 475,
+      "user_id": "533514281950511104",
+      "msg1": "pug, quais são as 7 maravilhas do mundo",
+      "msg2": "só sei uma, eu!"
+    },
+    {
+      "id": 476,
+      "user_id": "249525932954484736",
+      "msg1": "pug hacker",
+      "msg2": "muahahaha."
+    },
+    {
+      "id": 477,
+      "user_id": "533514281950511104",
+      "msg1": "pug hackeou",
+      "msg2": "raquiei, muahah. 🤡"
+    },
+    {
+      "id": 478,
+      "user_id": "533514281950511104",
+      "msg1": "pug louco",
+      "msg2": "só um pouco. <:tonguesc:752653044210073702>"
+    },
+    {
+      "id": 479,
+      "user_id": "533514281950511104",
+      "msg1": "pug doido",
+      "msg2": "só um pouco. <:tonguesc:752653044210073702>"
+    },
+    {
+      "id": 480,
+      "user_id": "626229971945259018",
+      "msg1": "pug maluco",
+      "msg2": "só um pouco. <:tonguesc:752653044210073702>"
+    },
+    {
+      "id": 481,
+      "user_id": "249525932954484736",
+      "msg1": "super xandão",
+      "msg2": "meu ídolo."
+    },
+    {
+      "id": 482,
+      "user_id": "249525932954484736",
+      "msg1": "super xandao",
+      "msg2": "meu ídolo."
+    },
+    {
+      "id": 483,
+      "user_id": "249525932954484736",
+      "msg1": "pug quer comida",
+      "msg2": "quero. <:hmmm:552145852802662411>"
+    },
+    {
+      "id": 484,
+      "user_id": "249525932954484736",
+      "msg1": "pug quer comida?",
+      "msg2": "quero. <:hmmm:552145852802662411>"
+    },
+    {
+      "id": 485,
+      "user_id": "533514281950511104",
+      "msg1": "também estou bem pug",
+      "msg2": "que bom!"
+    },
+    {
+      "id": 486,
+      "user_id": "533514281950511104",
+      "msg1": "namora pug",
+      "msg2": "enrolado, rs."
+    },
+    {
+      "id": 487,
+      "user_id": "533514281950511104",
+      "msg1": "namora pug?",
+      "msg2": "enrolado, rs."
+    },
+    {
+      "id": 488,
+      "user_id": "533514281950511104",
+      "msg1": "namora, pug?",
+      "msg2": "enrolado, rs."
+    },
+    {
+      "id": 489,
+      "user_id": "533514281950511104",
+      "msg1": "durma bem pug",
+      "msg2": "se cuida! <:coracao:567166345246933013>"
+    },
+    {
+      "id": 490,
+      "user_id": "533514281950511104",
+      "msg1": "pug tu é gay?",
+      "msg2": "cê que deixa."
+    },
+    {
+      "id": 491,
+      "user_id": "533514281950511104",
+      "msg1": "pug horrível",
+      "msg2": "<:tonguesc:752653044210073702>"
+    },
+    {
+      "id": 492,
+      "user_id": "533514281950511104",
+      "msg1": "pug você é castrado?",
+      "msg2": "indiscreto você."
+    },
+    {
+      "id": 493,
+      "user_id": "533514281950511104",
+      "msg1": "Pug tu conhece a molly?",
+      "msg2": "gasosa."
+    },
+    {
+      "id": 494,
+      "user_id": "533514281950511104",
+      "msg1": "sem rebolar pug",
+      "msg2": "ninguém manda nessa raba."
+    },
+    {
+      "id": 495,
+      "user_id": "533514281950511104",
+      "msg1": "pug tu gosta da loritta?",
+      "msg2": "sem comentários."
+    },
+    {
+      "id": 496,
+      "user_id": "533514281950511104",
+      "msg1": "pug é casado?",
+      "msg2": "enrolado, rs."
+    },
+    {
+      "id": 497,
+      "user_id": "533514281950511104",
+      "msg1": "Pug tu viu a raba da molly?",
+      "msg2": "indiscreto você."
+    },
+    {
+      "id": 498,
+      "user_id": "533514281950511104",
+      "msg1": "furmiga",
+      "msg2": "patrão! <:Furmiga:567163917374324736>"
+    },
+    {
+      "id": 499,
+      "user_id": "533514281950511104",
+      "msg1": "furmigahumana",
+      "msg2": "patrão! <:Furmiga:567163917374324736>"
+    },
+    {
+      "id": 500,
+      "user_id": "533514281950511104",
+      "msg1": "ô pug",
+      "msg2": "au!"
+    },
+    {
+      "id": 501,
+      "user_id": "533514281950511104",
+      "msg1": "aff pug",
+      "msg2": "tudo bem?"
+    },
+    {
+      "id": 502,
+      "user_id": "533514281950511104",
+      "msg1": "tá com sono pug?",
+      "msg2": "😴"
+    },
+    {
+      "id": 503,
+      "user_id": "533514281950511104",
+      "msg1": "tá com sono, pug?",
+      "msg2": "😴"
+    },
+    {
+      "id": 504,
+      "user_id": "533514281950511104",
+      "msg1": "tá com sono pug",
+      "msg2": "😴"
+    },
+    {
+      "id": 505,
+      "user_id": "533514281950511104",
+      "msg1": "pug tudo mal?",
+      "msg2": "tudo bem!"
+    },
+    {
+      "id": 506,
+      "user_id": "533514281950511104",
+      "msg1": "lindo pug",
+      "msg2": "são seus olhos. <:leeow:739804400566141009>"
+    },
+    {
+      "id": 507,
+      "user_id": "533514281950511104",
+      "msg1": "pug tu e lindo",
+      "msg2": "são seus olhos. <:leeow:739804400566141009>"
+    },
+    {
+      "id": 508,
+      "user_id": "533514281950511104",
+      "msg1": "pug tu é lindo",
+      "msg2": "são seus olhos. <:leeow:739804400566141009>"
+    },
+    {
+      "id": 509,
+      "user_id": "533514281950511104",
+      "msg1": "pug tu eh lindo",
+      "msg2": "são seus olhos. <:leeow:739804400566141009>"
+    },
+    {
+      "id": 510,
+      "user_id": "533514281950511104",
+      "msg1": "pug vc é lindo",
+      "msg2": "são seus olhos. <:leeow:739804400566141009>"
+    },
+    {
+      "id": 511,
+      "user_id": "533514281950511104",
+      "msg1": "pug você é lindo",
+      "msg2": "são seus olhos. <:leeow:739804400566141009>"
+    },
+    {
+      "id": 512,
+      "user_id": "249525932954484736",
+      "msg1": "pug safado",
+      "msg2": "eu sou um santo. 👼"
+    },
+    {
+      "id": 513,
+      "user_id": "249525932954484736",
+      "msg1": "pug santo",
+      "msg2": "sim, eu sou. 🔥"
+    },
+    {
+      "id": 514,
+      "user_id": "249525932954484736",
+      "msg1": "pug tu e",
+      "msg2": "cê que deixa."
+    },
+    {
+      "id": 515,
+      "user_id": "249525932954484736",
+      "msg1": "pug tu e?",
+      "msg2": "cê que deixa."
+    },
+    {
+      "id": 516,
+      "user_id": "249525932954484736",
+      "msg1": "queime pug",
+      "msg2": "meu rabo sempre está pegando fogo. 🔥"
+    },
+    {
+      "id": 517,
+      "user_id": "249525932954484736",
+      "msg1": "pug queime",
+      "msg2": "meu rabo sempre está pegando fogo. 🔥"
+    },
+    {
+      "id": 518,
+      "user_id": "533514281950511104",
+      "msg1": "pug namora?",
+      "msg2": "enrolado, rs."
+    },
+    {
+      "id": 519,
+      "user_id": "533514281950511104",
+      "msg1": "gigi",
+      "msg2": "17?"
+    },
+    {
+      "id": 520,
+      "user_id": "533514281950511104",
+      "msg1": "o leeow é chato",
+      "msg2": "vou te morder! <:grr:750453613456785508>"
+    },
+    {
+      "id": 521,
+      "user_id": "533514281950511104",
+      "msg1": "tudo bem sim e você pug",
+      "msg2": "que bom, eu também!"
+    },
+    {
+      "id": 522,
+      "user_id": "533514281950511104",
+      "msg1": "o que você gosta de fazer pug?",
+      "msg2": "pegar a bolinha, CADÊ?"
+    },
+    {
+      "id": 523,
+      "user_id": "533514281950511104",
+      "msg1": "não estou bem pug",
+      "msg2": "sério? Que pena. <:tonguesc:752653044210073702>"
+    },
+    {
+      "id": 524,
+      "user_id": "533514281950511104",
+      "msg1": "sarrador profissional",
+      "msg2": "está falando do bertie ou do euseifo?"
+    },
+    {
+      "id": 525,
+      "user_id": "533514281950511104",
+      "msg1": "euseifo",
+      "msg2": "eu ouvi sarrada?"
+    },
+    {
+      "id": 526,
+      "user_id": "533514281950511104",
+      "msg1": "fala com ele pug",
+      "msg2": "é só me chamar, bb."
+    },
+    {
+      "id": 527,
+      "user_id": "626229971945259018",
+      "msg1": "pug palhaço",
+      "msg2": "🤡"
+    },
+    {
+      "id": 528,
+      "user_id": "533514281950511104",
+      "msg1": "gigiulia",
+      "msg2": "mlk."
+    },
+    {
+      "id": 529,
+      "user_id": "533514281950511104",
+      "msg1": "suave pug?",
+      "msg2": "suav, parceiro."
+    },
+    {
+      "id": 530,
+      "user_id": "533514281950511104",
+      "msg1": "pug tu é ne?",
+      "msg2": "cê que deixa."
+    },
+    {
+      "id": 531,
+      "user_id": "533514281950511104",
+      "msg1": "acordando",
+      "msg2": "namorada do Rover."
+    },
+    {
+      "id": 532,
+      "user_id": "533514281950511104",
+      "msg1": "dormindo",
+      "msg2": "namorado da Alice."
+    },
+    {
+      "id": 533,
+      "user_id": "533514281950511104",
+      "msg1": "com sono pug?",
+      "msg2": "😴"
+    },
+    {
+      "id": 534,
+      "user_id": "533514281950511104",
+      "msg1": "com sono, pug?",
+      "msg2": "😴"
+    },
+    {
+      "id": 535,
+      "user_id": "533514281950511104",
+      "msg1": "vai dormir pug",
+      "msg2": "esperando meu dono..."
+    },
+    {
+      "id": 536,
+      "user_id": "249525932954484736",
+      "msg1": "pug bot",
+      "msg2": "não me chame de bot, me chame de pug."
+    },
+    {
+      "id": 537,
+      "user_id": "533514281950511104",
+      "msg1": "pug crente",
+      "msg2": "amém."
+    },
+    {
+      "id": 538,
+      "user_id": "533514281950511104",
+      "msg1": "vou cancelar o pug",
+      "msg2": "cancelado."
+    },
+    {
+      "id": 539,
+      "user_id": "249525932954484736",
+      "msg1": "pug da boost",
+      "msg2": "não cabe a mim, mas cabe a você. <a:hype:752279128543068300>"
+    },
+    {
+      "id": 540,
+      "user_id": "249525932954484736",
+      "msg1": "pug oi",
+      "msg2": "fala tu."
+    },
+    {
+      "id": 541,
+      "user_id": "496753139119292428",
+      "msg1": "quando tem radio",
+      "msg2": "Confira o calendário oficial das locuções! https://bit.ly/CalendRadio"
+    },
+    {
+      "id": 542,
+      "user_id": "496753139119292428",
+      "msg1": "quando tem rádio",
+      "msg2": "Confira o calendário oficial das locuções! https://bit.ly/CalendRadio"
+    },
+    {
+      "id": 543,
+      "user_id": "496753139119292428",
+      "msg1": "quando tem radio?",
+      "msg2": "Confira o calendário oficial das locuções! https://bit.ly/CalendRadio"
+    },
+    {
+      "id": 544,
+      "user_id": "496753139119292428",
+      "msg1": "quando tem rádio?",
+      "msg2": "Confira o calendário oficial das locuções! https://bit.ly/CalendRadio"
+    },
+    {
+      "id": 545,
+      "user_id": "496753139119292428",
+      "msg1": "quando vai ter radio",
+      "msg2": "Confira o calendário oficial das locuções! https://bit.ly/CalendRadio"
+    },
+    {
+      "id": 546,
+      "user_id": "496753139119292428",
+      "msg1": "quando vai ter radio?",
+      "msg2": "Confira o calendário oficial das locuções! https://bit.ly/CalendRadio"
+    },
+    {
+      "id": 547,
+      "user_id": "496753139119292428",
+      "msg1": "quando vai ter rádio",
+      "msg2": "Confira o calendário oficial das locuções! https://bit.ly/CalendRadio"
+    },
+    {
+      "id": 548,
+      "user_id": "496753139119292428",
+      "msg1": "quando vai ter rádio?",
+      "msg2": "Confira o calendário oficial das locuções! https://bit.ly/CalendRadio"
+    },
+    {
+      "id": 549,
+      "user_id": "496753139119292428",
+      "msg1": "quando que vai ter radio",
+      "msg2": "Confira o calendário oficial das locuções! https://bit.ly/CalendRadio"
+    },
+    {
+      "id": 550,
+      "user_id": "496753139119292428",
+      "msg1": "quando que vai ter radio?",
+      "msg2": "Confira o calendário oficial das locuções! https://bit.ly/CalendRadio"
+    },
+    {
+      "id": 551,
+      "user_id": "496753139119292428",
+      "msg1": "quando que vai ter rádio?",
+      "msg2": "Confira o calendário oficial das locuções! https://bit.ly/CalendRadio"
+    },
+    {
+      "id": 552,
+      "user_id": "496753139119292428",
+      "msg1": "quando tem radio",
+      "msg2": "Confira o calendário oficial das locuções! https://bit.ly/CalendRadio"
+    },
+    {
+      "id": 553,
+      "user_id": "496753139119292428",
+      "msg1": "quando tem radio?",
+      "msg2": "Confira o calendário oficial das locuções! https://bit.ly/CalendRadio"
+    },
+    {
+      "id": 554,
+      "user_id": "496753139119292428",
+      "msg1": "quando tem rádio?",
+      "msg2": "Confira o calendário oficial das locuções! https://bit.ly/CalendRadio"
+    },
+    {
+      "id": 555,
+      "user_id": "626229971945259018",
+      "msg1": "pug delicinha",
+      "msg2": "<:arminha:755237894993608784> 🐦"
+    },
+    {
+      "id": 556,
+      "user_id": "249525932954484736",
+      "msg1": "pug bonzinho",
+      "msg2": "auau. <:PeppoCoffee:604837369174032397>"
+    },
+    {
+      "id": 557,
+      "user_id": "249525932954484736",
+      "msg1": "Kkkk",
+      "msg2": "qual eh a graça?"
+    },
+    {
+      "id": 558,
+      "user_id": "249525932954484736",
+      "msg1": "uga uga",
+      "msg2": "uu, aa."
+    },
+    {
+      "id": 559,
+      "user_id": "249525932954484736",
+      "msg1": "uu aa",
+      "msg2": "uga, uga."
+    },
+    {
+      "id": 560,
+      "user_id": "249525932954484736",
+      "msg1": "Hm",
+      "msg2": "dois. 🤠"
+    },
+    {
+      "id": 561,
+      "user_id": "249525932954484736",
+      "msg1": "pug e-girl",
+      "msg2": "eca. 🤢"
+    },
+    {
+      "id": 562,
+      "user_id": "249525932954484736",
+      "msg1": "pug deus",
+      "msg2": "amém. 🙏"
+    },
+    {
+      "id": 563,
+      "user_id": "249525932954484736",
+      "msg1": "pug diabo",
+      "msg2": "😈"
+    },
+    {
+      "id": 564,
+      "user_id": "249525932954484736",
+      "msg1": "pug lúcifer",
+      "msg2": "série boa."
+    },
+    {
+      "id": 565,
+      "user_id": "249525932954484736",
+      "msg1": "pug lucifer",
+      "msg2": "série boa."
+    },
+    {
+      "id": 566,
+      "user_id": "496753139119292428",
+      "msg1": "pug comunista",
+      "msg2": "NOSSO chat"
+    },
+    {
+      "id": 567,
+      "user_id": "496753139119292428",
+      "msg1": "pug doente",
+      "msg2": "atchim"
+    },
+    {
+      "id": 568,
+      "user_id": "249525932954484736",
+      "msg1": "pug pensa",
+      "msg2": "<:pugthink:761330058920591380>"
+    },
+    {
+      "id": 569,
+      "user_id": "249525932954484736",
+      "msg1": "pensa pug",
+      "msg2": "<:pugthink:761330058920591380>"
+    },
+    {
+      "id": 570,
+      "user_id": "249525932954484736",
+      "msg1": "pensando",
+      "msg2": "<:pugthink:761330058920591380>"
+    },
+    {
+      "id": 571,
+      "user_id": "249525932954484736",
+      "msg1": "pug formulário",
+      "msg2": "**Acompanhe os links para aplicação em nosso servidor!**\n**Moderação: **http://.bit.ly/FormulárioMD\n**Out-game: **http://.bit.ly/FormulárioOUT *(Design, Jornal e Rádio)*\n**BuildTeam: **http://.bit.ly/FormulárioBT"
+    },
+    {
+      "id": 572,
+      "user_id": "249525932954484736",
+      "msg1": "pug form",
+      "msg2": "**Acompanhe os links para aplicação em nosso servidor!**\n**Moderação: **http://.bit.ly/FormulárioMD\n**Out-game: **http://.bit.ly/FormulárioOUT *(Design, Jornal e Rádio)*\n**BuildTeam: **http://.bit.ly/FormulárioBT"
+    },
+    {
+      "id": 573,
+      "user_id": "249525932954484736",
+      "msg1": "formulário pug",
+      "msg2": "**Acompanhe os links para aplicação em nosso servidor!**\n**Moderação: **http://.bit.ly/FormulárioMD\n**Out-game: **http://.bit.ly/FormulárioOUT *(Design, Jornal e Rádio)*\n**BuildTeam: **http://.bit.ly/FormulárioBT"
+    },
+    {
+      "id": 574,
+      "user_id": "249525932954484736",
+      "msg1": "form pug",
+      "msg2": "**Acompanhe os links para aplicação em nosso servidor!**\n**Moderação: **http://.bit.ly/FormulárioMD\n**Out-game: **http://.bit.ly/FormulárioOUT *(Design, Jornal e Rádio)*\n**BuildTeam: **http://.bit.ly/FormulárioBT"
+    },
+    {
+      "id": 575,
+      "user_id": "249525932954484736",
+      "msg1": "pug formulario",
+      "msg2": "**Acompanhe os links para aplicação em nosso servidor!**\n**Moderação: **http://.bit.ly/FormulárioMD\n**Out-game: **http://.bit.ly/FormulárioOUT *(Design, Jornal e Rádio)*\n**BuildTeam: **http://.bit.ly/FormulárioBT"
+    },
+    {
+      "id": 576,
+      "user_id": "249525932954484736",
+      "msg1": "formulario pug",
+      "msg2": "**Acompanhe os links para aplicação em nosso servidor!**\n**Moderação: **http://.bit.ly/FormulárioMD\n**Out-game: **http://.bit.ly/FormulárioOUT *(Design, Jornal e Rádio)*\n**BuildTeam: **http://.bit.ly/FormulárioBT"
+    },
+    {
+      "id": 577,
+      "user_id": "249525932954484736",
+      "msg1": "pug 2.0",
+      "msg2": "é isso ae nego!"
+    },
+    {
+      "id": 578,
+      "user_id": "249525932954484736",
+      "msg1": "sdds pug",
+      "msg2": "sdds do que a gente ainda não viveu."
+    },
+    {
+      "id": 579,
+      "user_id": "249525932954484736",
+      "msg1": "piter pare",
+      "msg2": "parado piter."
+    },
+    {
+      "id": 580,
+      "user_id": "249525932954484736",
+      "msg1": "piter continue",
+      "msg2": "continue não."
+    }
+  ]
+}
